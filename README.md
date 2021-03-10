@@ -4,7 +4,7 @@ types in a word, hits enter getting a beautiful grid layout with images. Unsplas
 make requests. An example is implemented as a part of a learning process of 
 Modern React with Redux course by Stephen Grider.
 
-###Getting Started
+### Getting Started
 Having installing all dependencies you should create a Client ID in Unsplash 
 website. Please follow the link provided below. Once you've got the ID, copy it 
 and then paste it in .env file
